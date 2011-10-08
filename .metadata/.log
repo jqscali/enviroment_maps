@@ -8443,3 +8443,21 @@ org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 17:04:58.519
 !MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.106
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.106
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.112
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.247
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.248
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.250
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme

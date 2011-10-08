@@ -19,8 +19,19 @@
      android:layout_height="wrap_content"
      android:layout_width="wrap_content"
      android:onClick="selfDestruct"
-	 android:text="@string/app_name"
+	 android:text="@string/button_filter"
      android:id="@+id/buttonFilter"
+     android:layout_marginRight="4px"
+     android:layout_alignParentRight="true"
+     />
+     
+     <Button
+     android:layout_height="wrap_content"
+     android:layout_width="wrap_content"
+     android:onClick="selfDestruct"
+	 android:text="@string/button_toggle_view"
+     android:id="@+id/buttonViewType"
+     android:layout_toLeftOf="@id/buttonFilter"
      />
      
      
