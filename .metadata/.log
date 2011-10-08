@@ -8098,3 +8098,366 @@ org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse
 !MESSAGE The project description file (.project) for 'android_enviroment_hackathon' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2011-10-08 15:00:21.812
 !MESSAGE The project description file (.project) for 'hackathon_map_enviroment' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:06:55.338
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:06:55.340
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:06:55.343
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:20:44.502
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:20:44.504
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:20:44.509
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:21:05.418
+!MESSAGE AndroidManifest: Ignoring unknown 'r' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:21:05.889
+!MESSAGE AndroidManifest: Ignoring unknown 'r' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:21:11.126
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:22:56.361
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:22:56.361
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:22:56.363
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:22:56.365
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:22:56.371
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:25.777
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:25.778
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.779
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.781
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.784
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:25.883
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:25.883
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.884
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.886
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:25.889
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.123
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.124
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.125
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.126
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.129
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.418
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.418
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.419
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.422
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.426
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.521
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:26.522
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.522
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.523
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:26.526
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:29.101
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:29.101
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.103
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.104
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.107
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:29.224
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:29.225
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.226
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.227
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:29.230
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.085
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.085
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.086
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.087
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.090
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.307
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.307
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.308
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.310
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.312
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.408
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:23:30.409
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.410
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.411
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:23:30.414
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:42.737
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:42.738
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:42.739
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:42.740
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:42.744
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:45.093
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:45.094
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.095
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.096
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.098
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:45.686
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:30:45.687
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.688
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.689
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:30:45.691
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:50.979
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:50.980
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:50.981
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:50.982
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:50.984
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:53.998
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:53.999
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.000
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.002
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.007
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:54.804
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:54.805
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.805
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.874
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:54.881
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:55.113
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:55.113
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.114
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.115
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.119
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:55.255
+!MESSAGE main.xml: You must supply a layout_width attribute.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:32:55.255
+!MESSAGE main.xml: You must supply a layout_height attribute.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.256
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.257
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 16:32:55.259
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:43:13.235
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:43:13.497
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:43:16.004
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:58:33.700
+!MESSAGE AndroidManifest: Ignoring unknown 'l' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:58:34.691
+!MESSAGE AndroidManifest: Ignoring unknown 'l' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:58:36.323
+!MESSAGE AndroidManifest: Ignoring unknown 'r' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:58:39.065
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 16:58:57.152
+!MESSAGE AndroidManifest: Ignoring unknown 'com.google.android.maps.MapView' XML element
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 17:04:58.513
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 17:04:58.514
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 17:04:58.519
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.106
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.106
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:03:33.112
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.247
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.248
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-10-08 22:13:15.250
+!MESSAGE main.xml: Failed to find style 'mapViewStyle' in current theme

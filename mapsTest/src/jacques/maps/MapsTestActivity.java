@@ -18,6 +18,8 @@ import android.database.sqlite.SQLiteQueryBuilder;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 
 public class MapsTestActivity extends MapActivity {
 	
@@ -37,16 +39,24 @@ public class MapsTestActivity extends MapActivity {
         MapView mapView = (MapView) findViewById(R.id.mapview);
         mapView.setBuiltInZoomControls(true);
         
+        //Setting up the buttons
+        final Button button = (Button) findViewById(R.id.buttonFilter);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Perform action on click
+            }
+        });
+        
         //Loading the database
         loadDatabase();
-        SQLiteQueryBuilder myQuery = new SQLiteQueryBuilder();
+       // SQLiteQueryBuilder myQuery = new SQLiteQueryBuilder();
        // myQuery.buildQuery("RegionName", null, null, null, null, null, null);
         //myQuery.setTables("co2_emissions");
         Cursor cur = myDbHelper.getDatabase().query("co2_emissions", null, null, null, null, null, null);
         cur.moveToFirst();
         while (cur.isAfterLast() == false) {
           //  view.append("n" + cur.getString(1));
-        	Log.v("xxxxx",cur.getString(1));
+        	//Log.v("xxxxx",cur.getString(1));
        	    cur.moveToNext();
         }
         cur.close();
