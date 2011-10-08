@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1318071302331
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1318071305754
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318071380880
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1318071381404
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1318071381428
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1318071381496
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1318071381497
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1318071381603
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1318071381606
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1318071381682
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1318071391484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071391666
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071398994
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071399056
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071560928
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318071560978
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071562775
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071563766
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318071564451
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1318071575876
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071604109
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071604889
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071605419
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071615931
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318071617037
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071618597
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071619554
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071620215
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071620836
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071621626
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071697415
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071697876
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071699802
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071701369
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071703102
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1318071713462
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.1.v201108080010,"org.eclipse.jpt.jaxb.ui",1318071713463
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.1.v201108080010,"org.eclipse.jpt.jpa.ui",1318071713464
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1318071713503
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1318071713514
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20110728_r371,"org.eclipse.pde.api.tools",1318071713570
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1318071713574
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.1.v201108080010,"org.eclipse.jpt.jaxb.core",1318071713796
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1318071715621
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1318071725790
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071726206
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071728555
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1318071731182
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071734099
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071736591
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071738418
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071738605
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071738757
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071738915
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071739082
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071739233
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071739395
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071739561
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071739714
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1318071740050
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071740351
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1318071740985
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1318071741332
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1318071743186
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1318071756841
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1318071761073
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071763076
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071763262
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1318071765854
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1318071771979
+started,bundle,org.eclipse.wst.server.core,1.1.303.v20110816_1717,"org.eclipse.wst.server.core",1318071774544
+started,bundle,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui",1318071774561
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.0.v201103232243,"org.eclipse.wst.jsdt.debug.rhino.ui",1318071774625
+started,bundle,org.eclipse.wst.jsdt.core,1.1.101.v201108151912,"org.eclipse.wst.jsdt.core",1318071774777
+started,bundle,org.eclipse.wst.common.frameworks,1.2.101.v201107192200,"org.eclipse.wst.common.frameworks",1318071781008
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1318071781015
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1318071781028
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1318071781032
+started,bundle,org.eclipse.wst.common.modulecore,1.2.101.v201108231700,"org.eclipse.wst.common.modulecore",1318071781057
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071789451
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071795821
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071798994
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071799760
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071800249
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071817829
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1318071821765
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineStart",1318071828269
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordNext",1318071838922
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071840317
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071843986
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1318071853153
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1318071858640
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.buildAutomatically",1318071865551
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.buildProject",1318071868297
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071873492
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071875555
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071876281
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071882297
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318071884307
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318071892709
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318071892838
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318071894985
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318071901017
+started,bundle,org.eclipse.wst.sse.ui,1.3.1.v201108191312,"org.eclipse.wst.sse.ui",1318071907210
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1318071907387
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1318071907674
+started,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1318071907781
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1318071907969
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1318071907979
+started,bundle,org.eclipse.wst.validation,1.2.302.v201107140600,"org.eclipse.wst.validation",1318071908276
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1318071908465
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1318071908602
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1318071908812
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1318071908980
+started,bundle,org.eclipse.jst.j2ee.core,1.2.101.v201108110300,"org.eclipse.jst.j2ee.core",1318071910110
+started,bundle,org.eclipse.jem,2.0.500.v201104271400,"org.eclipse.jem",1318071910214
+started,bundle,org.eclipse.jst.j2ee,1.1.501.v201108231845,"org.eclipse.jst.j2ee",1318071910355
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1318071910422
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1318071910582
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071915513
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318071917772
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318071917796
+started,bundle,org.eclipse.draw2d,3.7.1.v20110830-1143,"org.eclipse.draw2d",1318071922073
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.layout.LayoutEditor",1318071932264
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071935530
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071935532
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\list_selector_background.xml",1318071935814
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_light.xml",1318071935932
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071935935
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071935951
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071936076
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_dark.xml",1318071936100
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936230
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936232
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936241
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936243
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936263
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936265
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936275
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936278
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936289
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936291
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936302
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936305
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936315
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936317
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936325
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936327
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936336
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936338
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936347
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936349
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936359
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936361
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936370
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936372
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936382
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936383
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071936387
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071936391
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_dark.xml",1318071936394
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936450
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071936452
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\list_selector_background.xml",1318071936485
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071936821
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\list_selector_background.xml",1318071937240
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\list_selector_background.xml",1318071937259
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_dark.xml",1318071937477
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_light.xml",1318071937719
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071937721
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938076
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938152
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938185
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938198
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\list_selector_background.xml",1318071938358
+error,log,,,"",1318071938363
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_up_btn.xml",1318071938446
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_input.xml",1318071938463
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938467
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938483
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_down_btn.xml",1318071938506
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938513
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_up_btn.xml",1318071938516
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_input.xml",1318071938519
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938521
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938522
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_down_btn.xml",1318071938525
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938529
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\secondary_text_light.xml",1318071938543
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light_nodisable.xml",1318071938573
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938577
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_up_btn.xml",1318071938704
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_input.xml",1318071938707
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938713
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938716
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_down_btn.xml",1318071938718
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_dark.xml",1318071938723
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_up_btn.xml",1318071938727
+error,log,,,"palette: Failed to parse file C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\drawable\\numberpicker_input.xml",1318071938730
+error,log,,,"palette: Failed to configure parser for C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-11\\data\\res\\color\\primary_text_light.xml",1318071938732
