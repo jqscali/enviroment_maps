@@ -146,6 +146,11 @@ public class DatabaseHelper extends SQLiteOpenHelper{
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
  
 	}
+	
+	public SQLiteDatabase getDatabase()
+	{
+		return myDataBase;
+	}
  
         // Add your public helper methods to access and get content from the database.
        // You could return cursors by doing "return myDataBase.query(....)" so it'd be easy
