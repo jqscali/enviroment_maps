@@ -12,9 +12,12 @@ import com.google.android.maps.OverlayItem;
 import jacques.maps.MyOverlays;
 import jacques.maps.DatabaseHelper;
 
+import android.database.Cursor;
 import android.database.SQLException;
+import android.database.sqlite.SQLiteQueryBuilder;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MapsTestActivity extends MapActivity {
 	
@@ -26,6 +29,9 @@ public class MapsTestActivity extends MapActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        
+        Log.v("xxxxx","hello world");
+        
         //Setting up the view
         setContentView(R.layout.main);
         MapView mapView = (MapView) findViewById(R.id.mapview);
@@ -33,6 +39,17 @@ public class MapsTestActivity extends MapActivity {
         
         //Loading the database
         loadDatabase();
+        SQLiteQueryBuilder myQuery = new SQLiteQueryBuilder();
+       // myQuery.buildQuery("RegionName", null, null, null, null, null, null);
+        //myQuery.setTables("co2_emissions");
+        Cursor cur = myDbHelper.getDatabase().query("co2_emissions", null, null, null, null, null, null);
+        cur.moveToFirst();
+        while (cur.isAfterLast() == false) {
+          //  view.append("n" + cur.getString(1));
+        	Log.v("xxxxx",cur.getString(1));
+       	    cur.moveToNext();
+        }
+        cur.close();
         
         //Adding overlay items
         List<Overlay> mapOverlays = mapView.getOverlays();

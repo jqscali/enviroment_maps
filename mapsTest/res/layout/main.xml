@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    
+    android:padding="6dip">
+    
+    
 <com.google.android.maps.MapView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/mapview"
@@ -7,3 +14,11 @@
     android:clickable="true"
     android:apiKey="0JC-amZNuD6wgCdRnkAss2H-8T7MxUVdKCktswg"
 />
+
+<Button
+     android:layout_height="wrap_content"
+     android:layout_width="wrap_content"
+     android:onClick="selfDestruct" />
+     
+     
+</RelativeLayout>
