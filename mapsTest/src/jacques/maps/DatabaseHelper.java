@@ -5,19 +5,19 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 
-public class DatabaseHelper extends SQLiteOpenHelper{
-
-	 
+public class DatabaseHelper extends SQLiteOpenHelper
+{
     //The Android's default system path of your application database.
     private static String DB_PATH = "/data/data/jacques.maps/databases/";
- 
     private static String DB_NAME = "co2_emissions.sqlite3";
+    private static String DB_TABLE = "MapCoords";
  
     private SQLiteDatabase myDataBase; 
  
@@ -28,10 +28,13 @@ public class DatabaseHelper extends SQLiteOpenHelper{
      * Takes and keeps a reference of the passed context in order to access to the application assets and resources.
      * @param context
      */
-    public DatabaseHelper(Context context) {
- 
-    	super(context, DB_NAME, null, 1);
+    public DatabaseHelper(Context context, String pDBPath, String pDBName)
+    {
+    	super(context, pDBName, null, 1);
         this.myContext = context;
+        
+        DB_NAME = pDBName;
+        DB_PATH = pDBPath;
     }	
  
   /**
@@ -72,7 +75,7 @@ public class DatabaseHelper extends SQLiteOpenHelper{
  
     	try{
     		String myPath = DB_PATH + DB_NAME;
-    		checkDB = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
+    		checkDB = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READWRITE);//OPEN_READONLY);
  
     	}catch(SQLiteException e){
  
@@ -123,23 +126,37 @@ public class DatabaseHelper extends SQLiteOpenHelper{
  
     	//Open the database
         String myPath = DB_PATH + DB_NAME;
-    	myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
+    	myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READWRITE);//OPEN_READONLY);
  
     }
  
     @Override
-	public synchronized void close() {
- 
+	public synchronized void close()
+    {
     	    if(myDataBase != null)
     		    myDataBase.close();
  
     	    super.close();
  
 	}
- 
+    
+	public void CreateTableInDB(Context context, String DataBaseCreate)
+	{
+		if( checkDataBase() == false )
+		{
+			myDataBase = context.openOrCreateDatabase(DB_NAME, 0, null);
+			myDataBase.execSQL(DataBaseCreate);
+		}
+	}
+	
+	public long CreateNewEntry(ContentValues InitialValues)
+	{
+		return myDataBase.insert(DB_TABLE, null, InitialValues);
+	}
+	
 	@Override
-	public void onCreate(SQLiteDatabase db) {
- 
+	public void onCreate(SQLiteDatabase db)
+	{
 	}
  
 	@Override
